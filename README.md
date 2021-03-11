@@ -1,3 +1,8 @@
-Welcome to Players Team Hub webpage.
+Welcome to 'Players Team Hub' webpage.
 
-This is a 
+You can get various information of worlds leading sports team e.g. their name, when they founded, country name, social link of every team etc.
+
+Our weblink is : 
+
+https://players-team-hub.netlify.app
+
